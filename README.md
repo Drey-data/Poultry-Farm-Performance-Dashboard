@@ -1,2 +1,2 @@
 # Poultry-Farm-Performance-Dashboard
-An interactive Power BI dashboard analyzing poultry farm production, feed efficiency, and flock health for portfolio demonstration.
+End-to-end Power BI analytics dashboard analyzing poultry farm production, feed efficiency, and flock health using operational farm data.

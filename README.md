@@ -51,3 +51,14 @@ The Power BI dashboard is organized into four main analytical pages:
 - **Feed & Efficiency**  
   Examines feed consumption patterns, feed per bird, and feed-to-egg efficiency to highlight cost and productivity drivers.
   
+## 🔍 Key Insights
+
+- Production performance improves rapidly with flock age but declines noticeably after peak laying periods, reducing overall output efficiency.
+
+- Significant performance differences exist across pens, indicating uneven management practices or environmental conditions.
+
+- Feed consumption does not always scale proportionally with egg production, highlighting periods of reduced feed efficiency.
+
+- Mortality levels are uneven across pens and time, suggesting targeted health or management interventions are required rather than blanket actions.
+
+- Peak production occurs within a narrow age window, emphasizing the importance of age-specific production and feed strategies.

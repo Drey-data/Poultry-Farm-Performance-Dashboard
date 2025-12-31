@@ -74,3 +74,10 @@ The Power BI dashboard is organized into four main analytical pages:
 - Monitor feed-to-production relationships regularly to detect efficiency losses before they materially impact profitability.
 
 - Plan flock lifecycle decisions around post-peak production periods to minimize productivity decline and optimize operational timing.
+
+## 🔒 Confidentiality & Portfolio Disclaimer
+
+- Dataset has been fully anonymized for portfolio purposes.  
+- All company and personnel names have been removed or replaced.  
+- This project is intended purely for educational, portfolio, and demonstration purposes.  
+- No sensitive business information is being shared.

@@ -26,3 +26,11 @@ The dashboard provides visibility into flock health, egg production performance,
 
 - Microsoft Excel  
   - Daily data capture and initial record keeping
+
+## 🧹 Data Preparation & Modeling
+
+- Daily records from multiple pens were consolidated into a single fact table.
+- Date, Pen, and Medication dimension tables were created to support a star schema model.
+- Medication names were standardized to ensure consistent reporting and analysis.
+- Calculated measures were created for key KPIs including mortality rate, production rate, feed per bird, and feed efficiency.
+- Relationships were configured as one-to-many with single-direction filtering to ensure accurate aggregation.

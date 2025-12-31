@@ -34,3 +34,20 @@ The dashboard provides visibility into flock health, egg production performance,
 - Medication names were standardized to ensure consistent reporting and analysis.
 - Calculated measures were created for key KPIs including mortality rate, production rate, feed per bird, and feed efficiency.
 - Relationships were configured as one-to-many with single-direction filtering to ensure accurate aggregation.
+
+## 📈 Dashboard Pages Overview
+
+The Power BI dashboard is organized into four main analytical pages:
+
+- **Executive Overview**  
+  Provides a high-level snapshot of farm performance, including population size, mortality rate, production rate, feed usage, and quality indicators.
+
+- **Flock Health & Mortality**  
+  Analyzes mortality trends over time and across pens, supporting early identification of health risks and intervention effectiveness.
+
+- **Production Performance**  
+  Evaluates egg production trends, production rate by age, peak production points, and pen-level performance differences.
+
+- **Feed & Efficiency**  
+  Examines feed consumption patterns, feed per bird, and feed-to-egg efficiency to highlight cost and productivity drivers.
+  

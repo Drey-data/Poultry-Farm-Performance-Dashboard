@@ -62,3 +62,15 @@ The Power BI dashboard is organized into four main analytical pages:
 - Mortality levels are uneven across pens and time, suggesting targeted health or management interventions are required rather than blanket actions.
 
 - Peak production occurs within a narrow age window, emphasizing the importance of age-specific production and feed strategies.
+
+## ✅ Recommendations
+
+- Standardize best-performing pen practices by identifying management, feeding, or environmental conditions that drive stronger production outcomes.
+
+- Align feed strategies more closely with peak production age to maximize egg output while controlling feed costs.
+
+- Introduce early-warning mortality thresholds to enable faster, preventive health interventions at the pen level.
+
+- Monitor feed-to-production relationships regularly to detect efficiency losses before they materially impact profitability.
+
+- Plan flock lifecycle decisions around post-peak production periods to minimize productivity decline and optimize operational timing.

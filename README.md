@@ -16,3 +16,13 @@ The dashboard provides visibility into flock health, egg production performance,
 - Time-based tracking of flock population, egg production, feed intake, mortality, and medication events
 - Covers multiple pens monitored concurrently over a defined production period
 - Dataset anonymized to protect farm identity and sensitive business information
+
+## 🛠 Tools & Technologies
+
+- Power BI  
+  - Power Query for data transformation  
+  - Data modeling using fact and dimension tables  
+  - DAX for KPI calculations and performance metrics  
+
+- Microsoft Excel  
+  - Daily data capture and initial record keeping

@@ -9,3 +9,10 @@ End-to-end Power BI analytics dashboard analyzing poultry farm production, feed 
 This project analyzes daily operational records from a commercial poultry farm and transforms them into an interactive Power BI dashboard designed for management decision-making.
 
 The dashboard provides visibility into flock health, egg production performance, feed usage, and operational efficiency across pens and time. All data has been anonymized and is shared strictly for portfolio and demonstration purposes.
+
+## 📊 Dataset & Scope
+
+- Daily operational records captured at pen level
+- Time-based tracking of flock population, egg production, feed intake, mortality, and medication events
+- Covers multiple pens monitored concurrently over a defined production period
+- Dataset anonymized to protect farm identity and sensitive business information
